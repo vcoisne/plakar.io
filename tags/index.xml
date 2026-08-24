@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Plakar | The Open Standard for Backup and Restore</title>
+    <link>https://www.plakar.io/tags/</link>
+    <description>Recent content in Tags on Plakar | The Open Standard for Backup and Restore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 PlakarKorp</copyright>
+    <lastBuildDate>Mon, 24 Aug 2026 01:39:09 +0200</lastBuildDate><atom:link href="https://www.plakar.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Backup</title>
+      <link>https://www.plakar.io/tags/backup/</link>
+      <pubDate>Wed, 12 Aug 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/backup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Disaster-Recovery</title>
+      <link>https://www.plakar.io/tags/disaster-recovery/</link>
+      <pubDate>Wed, 12 Aug 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/disaster-recovery/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ransomware</title>
+      <link>https://www.plakar.io/tags/ransomware/</link>
+      <pubDate>Wed, 12 Aug 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/ransomware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://www.plakar.io/tags/security/</link>
+      <pubDate>Wed, 12 Aug 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://www.plakar.io/tags/database/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/database/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Integration</title>
+      <link>https://www.plakar.io/tags/integration/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/integration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Postgresql</title>
+      <link>https://www.plakar.io/tags/postgresql/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/postgresql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Announcement</title>
+      <link>https://www.plakar.io/tags/announcement/</link>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/announcement/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>https://www.plakar.io/tags/aws/</link>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/aws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Control-Plane</title>
+      <link>https://www.plakar.io/tags/control-plane/</link>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/control-plane/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Plakar</title>
+      <link>https://www.plakar.io/tags/plakar/</link>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/plakar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>https://www.plakar.io/tags/open-source/</link>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/open-source/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>https://www.plakar.io/tags/release/</link>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/release/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cdc</title>
+      <link>https://www.plakar.io/tags/cdc/</link>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://www.plakar.io/tags/cdc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chunking</title>
+      <link>https://www.plakar.io/tags/chunking/</link>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://www.plakar.io/tags/chunking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deduplication</title>
+      <link>https://www.plakar.io/tags/deduplication/</link>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://www.plakar.io/tags/deduplication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kloset</title>
+      <link>https://www.plakar.io/tags/kloset/</link>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://www.plakar.io/tags/kloset/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>https://www.plakar.io/tags/performance/</link>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 +0200</pubDate>
+      
+      <guid>https://www.plakar.io/tags/performance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Frontend</title>
+      <link>https://www.plakar.io/tags/frontend/</link>
+      <pubDate>Mon, 25 May 2026 13:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/frontend/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Plakar-Ui</title>
+      <link>https://www.plakar.io/tags/plakar-ui/</link>
+      <pubDate>Mon, 25 May 2026 13:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/plakar-ui/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Monorepo</title>
+      <link>https://www.plakar.io/tags/monorepo/</link>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/monorepo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pnpm</title>
+      <link>https://www.plakar.io/tags/pnpm/</link>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/pnpm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Turborepo</title>
+      <link>https://www.plakar.io/tags/turborepo/</link>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/turborepo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://www.plakar.io/tags/react/</link>
+      <pubDate>Mon, 25 May 2026 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/react/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>https://www.plakar.io/tags/typescript/</link>
+      <pubDate>Mon, 25 May 2026 10:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/typescript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Validation</title>
+      <link>https://www.plakar.io/tags/validation/</link>
+      <pubDate>Mon, 25 May 2026 09:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/validation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Zod</title>
+      <link>https://www.plakar.io/tags/zod/</link>
+      <pubDate>Mon, 25 May 2026 09:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/zod/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tanstack-Query</title>
+      <link>https://www.plakar.io/tags/tanstack-query/</link>
+      <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/tanstack-query/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tanstack-Form</title>
+      <link>https://www.plakar.io/tags/tanstack-form/</link>
+      <pubDate>Mon, 25 May 2026 07:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/tanstack-form/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accessibility</title>
+      <link>https://www.plakar.io/tags/accessibility/</link>
+      <pubDate>Mon, 25 May 2026 06:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/accessibility/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>React-Aria</title>
+      <link>https://www.plakar.io/tags/react-aria/</link>
+      <pubDate>Mon, 25 May 2026 06:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/react-aria/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tanstack-Table</title>
+      <link>https://www.plakar.io/tags/tanstack-table/</link>
+      <pubDate>Mon, 25 May 2026 05:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/tanstack-table/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tanstack-Router</title>
+      <link>https://www.plakar.io/tags/tanstack-router/</link>
+      <pubDate>Mon, 25 May 2026 04:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/tanstack-router/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Storybook</title>
+      <link>https://www.plakar.io/tags/storybook/</link>
+      <pubDate>Mon, 25 May 2026 03:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/storybook/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://www.plakar.io/tags/testing/</link>
+      <pubDate>Mon, 25 May 2026 02:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/testing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Build</title>
+      <link>https://www.plakar.io/tags/build/</link>
+      <pubDate>Mon, 25 May 2026 01:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/build/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vite</title>
+      <link>https://www.plakar.io/tags/vite/</link>
+      <pubDate>Mon, 25 May 2026 01:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/vite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Content-Defined-Chunking</title>
+      <link>https://www.plakar.io/tags/content-defined-chunking/</link>
+      <pubDate>Fri, 22 May 2026 01:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/content-defined-chunking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wikipedia</title>
+      <link>https://www.plakar.io/tags/wikipedia/</link>
+      <pubDate>Fri, 22 May 2026 01:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/wikipedia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Proxmox</title>
+      <link>https://www.plakar.io/tags/proxmox/</link>
+      <pubDate>Mon, 16 Mar 2026 15:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/proxmox/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://www.plakar.io/tags/kubernetes/</link>
+      <pubDate>Wed, 18 Feb 2026 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/kubernetes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Oci</title>
+      <link>https://www.plakar.io/tags/oci/</link>
+      <pubDate>Sat, 07 Feb 2026 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/oci/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Storage</title>
+      <link>https://www.plakar.io/tags/storage/</link>
+      <pubDate>Sat, 07 Feb 2026 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/storage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Filesystem</title>
+      <link>https://www.plakar.io/tags/filesystem/</link>
+      <pubDate>Sun, 11 Jan 2026 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/filesystem/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Overlayfs</title>
+      <link>https://www.plakar.io/tags/overlayfs/</link>
+      <pubDate>Sun, 11 Jan 2026 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/overlayfs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Qcow2</title>
+      <link>https://www.plakar.io/tags/qcow2/</link>
+      <pubDate>Sun, 11 Jan 2026 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/qcow2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UI</title>
+      <link>https://www.plakar.io/tags/ui/</link>
+      <pubDate>Sun, 11 Jan 2026 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/ui/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cncf</title>
+      <link>https://www.plakar.io/tags/cncf/</link>
+      <pubDate>Wed, 07 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/cncf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux-Foundation</title>
+      <link>https://www.plakar.io/tags/linux-foundation/</link>
+      <pubDate>Wed, 07 Jan 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/linux-foundation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hooks</title>
+      <link>https://www.plakar.io/tags/hooks/</link>
+      <pubDate>Sun, 30 Nov 2025 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/hooks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://www.plakar.io/tags/archive/</link>
+      <pubDate>Tue, 16 Sep 2025 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/archive/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backups</title>
+      <link>https://www.plakar.io/tags/backups/</link>
+      <pubDate>Tue, 16 Sep 2025 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/backups/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Integrations</title>
+      <link>https://www.plakar.io/tags/integrations/</link>
+      <pubDate>Tue, 16 Sep 2025 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/integrations/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Notion</title>
+      <link>https://www.plakar.io/tags/notion/</link>
+      <pubDate>Tue, 16 Sep 2025 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/notion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kapsul</title>
+      <link>https://www.plakar.io/tags/kapsul/</link>
+      <pubDate>Tue, 15 Jul 2025 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/kapsul/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ptar</title>
+      <link>https://www.plakar.io/tags/ptar/</link>
+      <pubDate>Tue, 15 Jul 2025 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/ptar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>https://www.plakar.io/tags/s3/</link>
+      <pubDate>Mon, 30 Jun 2025 13:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/s3/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
