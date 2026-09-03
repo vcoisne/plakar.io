@@ -4,6 +4,26 @@
 
 
 
+## [Google Cloud (GCP)](https://www.plakar.io/integrations/gcp/index.md)
+
+
+
+## [Amazon Web Services (AWS)](https://www.plakar.io/integrations/aws/index.md)
+
+
+
+## [Scaleway](https://www.plakar.io/integrations/scaleway/index.md)
+
+
+
+## [OVHcloud](https://www.plakar.io/integrations/ovhcloud/index.md)
+
+
+
+## [Plakar Control Plane](https://www.plakar.io/integrations/pcp/index.md)
+
+
+
 ## [Microsoft SQL Server](https://www.plakar.io/integrations/mssql/index.md)
 
 
@@ -16,7 +36,7 @@
 
 
 
-## [VSS](https://www.plakar.io/integrations/vss/index.md)
+## [Windows VSS](https://www.plakar.io/integrations/vss/index.md)
 
 
 
@@ -61,10 +81,6 @@
 
 
 ## [PostgreSQL](https://www.plakar.io/integrations/postgres/index.md)
-
-
-
-## [CalDAV](https://www.plakar.io/integrations/caldav/index.md)
 
 
 

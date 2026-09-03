@@ -58,9 +58,10 @@
 - [Google Cloud Storage](https://www.plakar.io/docs/community/main/integrations/gcs/index.md): Back up and restore Google Cloud Storage buckets with Plakar.
 - [OCI Registry](https://www.plakar.io/docs/community/main/integrations/oci/index.md): Use an OCI registry as a Kloset store backend with Plakar.
 - [WebDAV](https://www.plakar.io/docs/community/main/integrations/webdav/index.md): Back up and restore WebDAV remotes with Plakar.
-- [CalDAV](https://www.plakar.io/docs/community/main/integrations/caldav/index.md): Back up and restore CalDAV calendars with Plakar.
 - [TAR](https://www.plakar.io/docs/community/main/integrations/tar/index.md): Import TAR archives into a Kloset store with Plakar.
 - [STDIO](https://www.plakar.io/docs/community/main/integrations/stdio/index.md): Back up from stdin and restore to stdout or stderr with Plakar.
+- [FTP](https://www.plakar.io/docs/community/main/integrations/ftp/index.md): Back up remote directories over FTP, and restore snapshots to FTP destinations.
+- [IMAP](https://www.plakar.io/docs/community/main/integrations/imap/index.md): Back up and restore mailboxes over IMAP.
 
 
 ## [Explanations](https://www.plakar.io/docs/community/main/explanations/index.md)

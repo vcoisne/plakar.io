@@ -94,15 +94,19 @@ Below is a list of links to the documentation for each supported integration.
 
 
 
-## [CalDAV](https://www.plakar.io/docs/community/v1.1.0/integrations/caldav/index.md)
-
-
-
 ## [TAR](https://www.plakar.io/docs/community/v1.1.0/integrations/tar/index.md)
 
 
 
 ## [STDIO](https://www.plakar.io/docs/community/v1.1.0/integrations/stdio/index.md)
+
+
+
+## [FTP](https://www.plakar.io/docs/community/v1.1.0/integrations/ftp/index.md)
+
+
+
+## [IMAP](https://www.plakar.io/docs/community/v1.1.0/integrations/imap/index.md)
 
 
 
