@@ -7,14 +7,94 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 PlakarKorp</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 16:54:57 +0200</lastBuildDate><atom:link href="https://www.plakar.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Sep 2026 17:39:18 +0200</lastBuildDate><atom:link href="https://www.plakar.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Open-Source</title>
-      <link>https://www.plakar.io/tags/open-source/</link>
-      <pubDate>Sun, 06 Sep 2026 12:00:00 +0100</pubDate>
+      <title>Active-Directory</title>
+      <link>https://www.plakar.io/tags/active-directory/</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0100</pubDate>
       
-      <guid>https://www.plakar.io/tags/open-source/</guid>
+      <guid>https://www.plakar.io/tags/active-directory/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backup</title>
+      <link>https://www.plakar.io/tags/backup/</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/backup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Control-Plane</title>
+      <link>https://www.plakar.io/tags/control-plane/</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/control-plane/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ransomware</title>
+      <link>https://www.plakar.io/tags/ransomware/</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/ransomware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sql-Server</title>
+      <link>https://www.plakar.io/tags/sql-server/</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/sql-server/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vss</title>
+      <link>https://www.plakar.io/tags/vss/</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/vss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://www.plakar.io/tags/windows/</link>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/windows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Astro</title>
+      <link>https://www.plakar.io/tags/astro/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/astro/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>https://www.plakar.io/tags/documentation/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/tags/documentation/</guid>
       <description></description>
       
     </item>
@@ -22,9 +102,19 @@
     <item>
       <title>Plakar</title>
       <link>https://www.plakar.io/tags/plakar/</link>
-      <pubDate>Sun, 06 Sep 2026 12:00:00 +0100</pubDate>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>https://www.plakar.io/tags/plakar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>https://www.plakar.io/tags/open-source/</link>
+      <pubDate>Sun, 06 Sep 2026 12:00:00 +0100</pubDate>
+      
+      <guid>https://www.plakar.io/tags/open-source/</guid>
       <description></description>
       
     </item>
@@ -40,31 +130,11 @@
     </item>
     
     <item>
-      <title>Backup</title>
-      <link>https://www.plakar.io/tags/backup/</link>
-      <pubDate>Wed, 12 Aug 2026 10:00:00 +0100</pubDate>
-      
-      <guid>https://www.plakar.io/tags/backup/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Disaster-Recovery</title>
       <link>https://www.plakar.io/tags/disaster-recovery/</link>
       <pubDate>Wed, 12 Aug 2026 10:00:00 +0100</pubDate>
       
       <guid>https://www.plakar.io/tags/disaster-recovery/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ransomware</title>
-      <link>https://www.plakar.io/tags/ransomware/</link>
-      <pubDate>Wed, 12 Aug 2026 10:00:00 +0100</pubDate>
-      
-      <guid>https://www.plakar.io/tags/ransomware/</guid>
       <description></description>
       
     </item>
@@ -125,16 +195,6 @@
       <pubDate>Fri, 10 Jul 2026 12:00:00 +0100</pubDate>
       
       <guid>https://www.plakar.io/tags/aws/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Control-Plane</title>
-      <link>https://www.plakar.io/tags/control-plane/</link>
-      <pubDate>Fri, 10 Jul 2026 12:00:00 +0100</pubDate>
-      
-      <guid>https://www.plakar.io/tags/control-plane/</guid>
       <description></description>
       
     </item>
