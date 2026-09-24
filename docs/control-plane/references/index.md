@@ -16,4 +16,12 @@ of the documentation instead.
 
 
 
+## [Terraform Provider](https://www.plakar.io/docs/control-plane/references/terraform-provider/index.md)
+
+
+
+## [Ansible Collection](https://www.plakar.io/docs/control-plane/references/ansible-collection/index.md)
+
+
+
 

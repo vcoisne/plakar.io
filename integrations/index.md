@@ -4,6 +4,18 @@
 
 
 
+## [MongoDB](https://www.plakar.io/integrations/mongodb/index.md)
+
+
+
+## [NFS](https://www.plakar.io/integrations/nfs/index.md)
+
+
+
+## [SMB](https://www.plakar.io/integrations/smb/index.md)
+
+
+
 ## [Impossible Cloud](https://www.plakar.io/integrations/impossible-cloud/index.md)
 
 

@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 PlakarKorp</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 17:39:18 +0200</lastBuildDate><atom:link href="https://www.plakar.io/integrations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Sep 2026 08:29:21 +0300</lastBuildDate><atom:link href="https://www.plakar.io/integrations/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MongoDB</title>
+      <link>https://www.plakar.io/integrations/mongodb/</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/integrations/mongodb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NFS</title>
+      <link>https://www.plakar.io/integrations/nfs/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/integrations/nfs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SMB</title>
+      <link>https://www.plakar.io/integrations/smb/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.plakar.io/integrations/smb/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Impossible Cloud</title>

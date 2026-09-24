@@ -103,6 +103,7 @@ required to use each one as a source, store, or destination.
 - [MySQL](https://www.plakar.io/docs/control-plane/resources/database/mysql/index.md): How to configure a MySQL resource in Plakar Control Plane.
 - [PostgreSQL](https://www.plakar.io/docs/control-plane/resources/database/postgres/index.md): How to configure a PostgreSQL resource in Plakar Control Plane.
 - [etcd](https://www.plakar.io/docs/control-plane/resources/database/etcd/index.md): How to configure an etcd resource in Plakar Control Plane.
+- [MongoDB](https://www.plakar.io/docs/control-plane/resources/database/mongodb/index.md): How to configure a MongoDB resource in Plakar Control Plane.
 
 
 ## [File Storage](https://www.plakar.io/docs/control-plane/resources/file-storage/index.md)
@@ -110,6 +111,8 @@ required to use each one as a source, store, or destination.
 - [SFTP](https://www.plakar.io/docs/control-plane/resources/file-storage/sftp/index.md): How to configure SFTP resource in Plakar Control Plane.
 - [FTP](https://www.plakar.io/docs/control-plane/resources/file-storage/ftp/index.md): How to configure an FTP resource in Plakar Control Plane.
 - [WebDAV](https://www.plakar.io/docs/control-plane/resources/file-storage/webdav/index.md): How to configure a WebDAV resource in Plakar Control Plane.
+- [SMB](https://www.plakar.io/docs/control-plane/resources/file-storage/smb/index.md): How to configure an SMB resource in Plakar Control Plane.
+- [NFS](https://www.plakar.io/docs/control-plane/resources/file-storage/nfs/index.md): How to configure an NFS resource in Plakar Control Plane.
 
 
 ## [Hypervisor](https://www.plakar.io/docs/control-plane/resources/hypervisor/index.md)
