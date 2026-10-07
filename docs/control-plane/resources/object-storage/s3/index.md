@@ -98,6 +98,8 @@ destination apps.
   non-standard port, for example `9000` for a local MinIO instance. AWS S3 and
   Scaleway Object Storage use the standard HTTPS port and do not require this to
   be set.
+- **Region**: The S3 region to use for request signing. Only needed for
+  S3-compatible providers that reject the SDK's automatic region discovery.
 - **SSE Customer Key**: A Base64-encoded 256-bit (32-byte) customer-provided
   AES-256 key for SSE-C server-side encryption. Only needed if the bucket is
   configured to require customer-provided encryption keys.
@@ -113,6 +115,13 @@ destination apps.
 - **TLS Insecure No Verify**: Disables TLS certificate verification. This should
   only ever be used for testing, enabling it in production means Plakar Control
   Plane will not verify the identity of the endpoint it is connecting to.
+
+> [!WARNING]+ TLS Certificate Verification
+>
+> Enabling **TLS Insecure No Verify** disables TLS certificate verification,
+> leaving the connection open to man-in-the-middle attacks. Only use this in
+> controlled environments with self-signed certificates on trusted networks.
+> Never use it with AWS S3, public cloud storage, or any production data.
 
 ## Store configuration
 
