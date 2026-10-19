@@ -6,6 +6,7 @@
 
 ## [Plakar Blog](https://www.plakar.io/posts/index.md)
 
+- [Backing up MongoDB with Plakar](https://www.plakar.io/posts/2026-10-13/backing-up-mongodb-with-plakar/index.md): Plakar now backs up MongoDB. One package, a connection string, and your collections land encrypted and deduplicated in a store you own. Our first NoSQL database, after PostgreSQL, MySQL, MariaDB and SQL Server.
 - [Backing up VMware for free with Plakar OSS](https://www.plakar.io/posts/2026-10-08/backing-up-vmware-with-plakar-oss/index.md): Plakar&rsquo;s VMware integration, previously only in the Plakar Control Plane, is now available in Plakar OSS: free for registered Plakar users, with encrypted, deduplicated backups of running VMs stored in an open, portable format.
 - [Resilience as Code, because backup should be Infrastructure.](https://www.plakar.io/posts/2026-09-23/resilience-as-code-kubernetes-operator/index.md): Backup is the last layer of your stack still clicked into a console. The Plakar Kubernetes Operator makes it code: declare resilience as Custom Resources, reconciled from Git, for everything you run.
 - [Agentless VSS and SQL Server backup now available in Plakar](https://www.plakar.io/posts/2026-09-08/agentless-vss-sql-server-backup/index.md): VSS and SQL Server backups are now free for registered Plakar users: agentless over SSH, encrypted and deduplicated into an open, portable Kloset store. The connectors are closed source, built for Control Plane. Active Directory recovery is a Plakar Control Plane capability.
@@ -124,6 +125,8 @@
 
 - [Proton Drive](https://www.plakar.io/integrations/protondrive/index.md): Back up your Proton Drive workloads with Plakar to protect against data loss, corruption, and ransomware. Immutable, encrypted, and restorable even offline and across environments.
 
+- [Rclone](https://www.plakar.io/integrations/rclone/index.md): Back up and restore cloud storage services such as Google Drive, Dropbox, OneDrive and Proton Drive with Plakar, using rclone to reach them. Create immutable, encrypted, and verifiable backups of your cloud files.
+
 - [S3](https://www.plakar.io/integrations/s3/index.md): Protect your object storage against accidental deletion, ransomware, and cloud misconfigurations. Plakar provides immutable, encrypted snapshots for S3, restorable across any provider or environment.
 
 - [SFTP](https://www.plakar.io/integrations/sftp/index.md): Back up and restore directories to and from remote servers over SFTP. Plakar ensures encrypted, deduplicated, and verifiable snapshots across Linux, BSD, and NAS environments.
@@ -156,6 +159,14 @@
 ## [Changelog](https://www.plakar.io/changelog/index.md)
 
 - [Plakar](https://www.plakar.io/changelog/plakar/index.md)
+- [Plakar Operator](https://www.plakar.io/changelog/plakar-operator/index.md)
+- [Kubernetes](https://www.plakar.io/changelog/k8s/index.md)
+- [FTP](https://www.plakar.io/changelog/ftp/index.md)
+- [MySQL](https://www.plakar.io/changelog/mysql/index.md)
+- [OpenStack](https://www.plakar.io/changelog/openstack/index.md)
+- [SFTP](https://www.plakar.io/changelog/sftp/index.md)
+- [Rclone](https://www.plakar.io/changelog/rclone/index.md)
+- [S3](https://www.plakar.io/changelog/s3/index.md)
 
 
 ## [Community](https://www.plakar.io/community/index.md)
