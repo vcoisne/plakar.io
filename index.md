@@ -6,6 +6,7 @@
 
 ## [Plakar Blog](https://www.plakar.io/posts/index.md)
 
+- [Take a Glance: Plakar's OpenStack backup is now free in Plakar Community](https://www.plakar.io/posts/2026-10-22/backing-up-openstack-with-plakar/index.md): Plakar&rsquo;s OpenStack backup is now free in Plakar Community (OSS): back up and restore Cinder volumes and Nova servers through the OpenStack APIs. No agent. Encrypted and deduplicated.
 - [Backing up MongoDB with Plakar](https://www.plakar.io/posts/2026-10-13/backing-up-mongodb-with-plakar/index.md): Plakar now backs up MongoDB. One package, a connection string, and your collections land encrypted and deduplicated in a store you own. Our first NoSQL database, after PostgreSQL, MySQL, MariaDB and SQL Server.
 - [Backing up VMware for free with Plakar OSS](https://www.plakar.io/posts/2026-10-08/backing-up-vmware-with-plakar-oss/index.md): Plakar&rsquo;s VMware integration, previously only in the Plakar Control Plane, is now available in Plakar OSS: free for registered Plakar users, with encrypted, deduplicated backups of running VMs stored in an open, portable format.
 - [Resilience as Code, because backup should be Infrastructure.](https://www.plakar.io/posts/2026-09-23/resilience-as-code-kubernetes-operator/index.md): Backup is the last layer of your stack still clicked into a console. The Plakar Kubernetes Operator makes it code: declare resilience as Custom Resources, reconciled from Git, for everything you run.
@@ -52,6 +53,8 @@
 
 
 ## [Plakar Integrations](https://www.plakar.io/integrations/index.md)
+
+- [OpenStack](https://www.plakar.io/integrations/openstack/index.md): Manage OpenStack from Plakar Control Plane end to end. Discover Nova servers, Cinder volumes and the other resources of a project automatically, and protect servers and volumes with encrypted, deduplicated backups and restores.
 
 - [MongoDB](https://www.plakar.io/integrations/mongodb/index.md): Protect your MongoDB deployments against accidental deletion, ransomware, and operator error. Plakar captures encrypted, deduplicated snapshots of a running server and restores them to any environment.
 
@@ -195,6 +198,10 @@
 
 - [Control Plane Docs](https://www.plakar.io/docs/control-plane/index.md): Plakar Control Plane documentation hub, find guides, references, and resources for working with Plakar Control Plane.
 - [Community Docs](https://www.plakar.io/docs/community/index.md)
+
+
+## [Plakar Community](https://www.plakar.io/plakar-community/index.md)
+
 
 
 ## [Solutions](https://www.plakar.io/solutions/index.md)
