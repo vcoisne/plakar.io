@@ -38,15 +38,13 @@ most VM disks are block-mode. That was the actual blocker.
 A disk snapshotted mid-write may not boot. A VM with three disks snapshotted a
 few seconds apart is worse. KubeVirt already solves this: its
 `VirtualMachineSnapshot` freezes the guest through the qemu guest agent and
-coordinates every disk. So we drive it instead of reimplementing it.
+coordinates every disk. So instead of writing our own freeze logic, Plakar asks
+KubeVirt for a `VirtualMachineSnapshot` and lets it do the freezing.
 
 The flow: Plakar requests a `VirtualMachineSnapshot`, a short-lived pod streams
 each disk out as raw blocks, and Plakar dedups, compresses and encrypts it into
 the same snapshot as the VM manifest. Restore goes the other way: fresh PVCs,
 data written back, manifest applied, into the original namespace or a new one.
-
-No guest agent, no freeze: Plakar gives up after 10 minutes instead of waiting
-forever. Install the agent.
 
 ## OpenShift: restore what you backed up, nothing more
 
@@ -86,3 +84,8 @@ Plakar community: create a free account, run `plakar login`, install it.
 
 Running VMs on Kubernetes? Break it and tell us on
 [Discord](https://discord.gg/uuegtnF2Q5).
+
+**One ask before you go.** If Plakar saves you time,
+[give it a star on GitHub](https://github.com/PlakarKorp/plakar). It takes a
+second, and it helps a lot: stars are how most people decide a backup tool is
+worth a look.
